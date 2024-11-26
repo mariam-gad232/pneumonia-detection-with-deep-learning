@@ -118,7 +118,7 @@ To get a copy of the project on your local machine, run the following command:
 
 ```bash
 git clone https://github.com/mariam-gad232/pneumonia-detection-with-deep-learning.git
-
+```
 
 ## Results
 
