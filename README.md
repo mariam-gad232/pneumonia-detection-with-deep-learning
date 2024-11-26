@@ -152,5 +152,4 @@ The model predicts whether the person is affected by pneumonia or not based on c
 
 ------
 Feel free to raise an issue or contribute to this project! 🚀
-```
 
