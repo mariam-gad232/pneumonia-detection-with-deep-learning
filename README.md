@@ -1,4 +1,4 @@
-```markdown
+
 # Pneumonia Detection Using Deep Learning 🩺🧠
 
 This project demonstrates the use of transfer learning with the **VGG16** model to detect pneumonia from chest X-ray images. The model classifies X-ray images into two categories: **Normal** and **Pneumonia**.
